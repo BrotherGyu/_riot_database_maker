@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+riot_database_*/
+
+# Local secrets
+secrets/keys.yaml
