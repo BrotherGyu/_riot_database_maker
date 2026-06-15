@@ -1,2 +1,7 @@
 keys:
   file: "secrets/keys.yaml"
+riot:
+  platform: "kr"
+  region: "asia"
+  request_sleep_seconds: 1.2
+  header_profile: "developer_portal"
